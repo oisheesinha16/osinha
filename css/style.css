@@ -185,6 +185,10 @@ footer a{
     color: rgb(70, 91, 58);
 }
 
+.sorry{
+    font-size: 25px; position: absolute; bottom: 80px;
+}
+
 .carousel-indicators button{
     margin:12px;
     width: 20%;
@@ -290,6 +294,10 @@ footer a{
     
     .navbar-brand{
         font-size: 20px;
+    }
+
+    .sorry{
+        position: relative;
     }
 
     .glinkspan{
