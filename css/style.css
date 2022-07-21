@@ -407,4 +407,7 @@ footer a{
     .intro span{
         font-size: 20px;
     }
+    .carousel-indicators{
+        display: none;
+    }
 }
